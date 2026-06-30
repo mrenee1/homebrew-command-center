@@ -1,6 +1,6 @@
 cask "command-center" do
-  version "1.0.0"
-  sha256 "ca55a2a1322b1a1eefe03c3a51312c624ced085742cf5e853e5262a456fe0674"
+  version "1.0.1"
+  sha256 "eb2b1958ddf4cdad5d86fafb7aaf4c71c757936a8e60d2241b68dac639f1fd23"
 
   url "https://github.com/mrenee1/homebrew-command-center/releases/download/v#{version}/Command-Center.dmg"
   name "Command Center"
